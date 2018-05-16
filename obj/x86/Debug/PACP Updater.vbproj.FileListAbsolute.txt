@@ -1,0 +1,12 @@
+C:\src\SF_Water\obj\x86\Debug\PACP Updater.vbprojResolveAssemblyReference.cache
+C:\src\SF_Water\obj\x86\Debug\PACP Updater.vbproj.GenerateResource.cache
+C:\src\SF_Water\obj\x86\Debug\PACP Updater.vbproj.CoreCompileInputs.cache
+C:\src\SF_Water\bin\Debug\SF Water PACP Update Utility.exe
+C:\src\SF_Water\bin\Debug\SF Water PACP Update Utility.pdb
+C:\src\SF_Water\bin\Debug\SF Water PACP Update Utility.xml
+C:\src\SF_Water\obj\x86\Debug\SFWater_PACPUpdateUtils.frmMain.resources
+C:\src\SF_Water\obj\x86\Debug\SFWater_PACPUpdateUtils.Form2.resources
+C:\src\SF_Water\obj\x86\Debug\SFWater_PACPUpdateUtils.Resources.resources
+C:\src\SF_Water\obj\x86\Debug\SF Water PACP Update Utility.exe
+C:\src\SF_Water\obj\x86\Debug\SF Water PACP Update Utility.xml
+C:\src\SF_Water\obj\x86\Debug\SF Water PACP Update Utility.pdb

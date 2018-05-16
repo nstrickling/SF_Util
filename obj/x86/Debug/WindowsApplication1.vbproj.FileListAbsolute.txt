@@ -1,0 +1,55 @@
+C:\Users\Stefan\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmMain.resources
+C:\Users\Stefan\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Stefan\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Stefan\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Stefan\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Stefan\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Stefan\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Stefan\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Stefan\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Data\SanFrancisco\2017\SFWATER_ReportCenter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Data\SanFrancisco\2017\SFWATER_ReportCenter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Data\SanFrancisco\2017\SFWATER_ReportCenter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Data\SanFrancisco\2017\SFWATER_ReportCenter\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Data\SanFrancisco\2017\SFWATER_ReportCenter\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Data\SanFrancisco\2017\SFWATER_ReportCenter\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Data\SanFrancisco\2017\SFWATER_ReportCenter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmMain.resources
+C:\Data\SanFrancisco\2017\SFWATER_ReportCenter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Data\SanFrancisco\2017\SFWATER_ReportCenter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Data\SanFrancisco\2017\SFWATER_ReportCenter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Data\SanFrancisco\2017\SFWATER_ReportCenter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Data\SanFrancisco\2017\SFWATER_ReportCenter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Data\SanFrancisco\2017\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Data\SanFrancisco\2017\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Data\SanFrancisco\2017\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Data\SanFrancisco\2017\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Data\SanFrancisco\2017\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmMain.resources
+C:\Data\SanFrancisco\2017\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Data\SanFrancisco\2017\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Data\SanFrancisco\2017\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Data\SanFrancisco\2017\SFWATER_PACP_LOOKUP\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Data\SanFrancisco\2017\SFWATER_PACP_LOOKUP\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Data\SanFrancisco\2017\SFWATER_PACP_LOOKUP\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\DATA\TFS\wincan8\WinCanRoot\WinCan v8\Tools\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+G:\DATA\TFS\wincan8\WinCanRoot\WinCan v8\Tools\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+G:\DATA\TFS\wincan8\WinCanRoot\WinCan v8\Tools\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+G:\DATA\TFS\wincan8\WinCanRoot\WinCan v8\Tools\SFWATER_PACP_LOOKUP\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\DATA\TFS\wincan8\WinCanRoot\WinCan v8\Tools\SFWATER_PACP_LOOKUP\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\DATA\TFS\wincan8\WinCanRoot\WinCan v8\Tools\SFWATER_PACP_LOOKUP\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\DATA\TFS\wincan8\WinCanRoot\WinCan v8\Tools\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+G:\DATA\TFS\wincan8\WinCanRoot\WinCan v8\Tools\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmMain.resources
+G:\DATA\TFS\wincan8\WinCanRoot\WinCan v8\Tools\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\DATA\TFS\wincan8\WinCanRoot\WinCan v8\Tools\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\DATA\TFS\wincan8\WinCanRoot\WinCan v8\Tools\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Projects\SanFran\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Projects\SanFran\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Projects\SanFran\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Projects\SanFran\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Projects\SanFran\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmMain.resources
+D:\Projects\SanFran\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Projects\SanFran\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Projects\SanFran\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Projects\SanFran\SFWATER_PACP_LOOKUP\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+D:\Projects\SanFran\SFWATER_PACP_LOOKUP\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Projects\SanFran\SFWATER_PACP_LOOKUP\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Projects\SanFran\SFWATER_PACP_LOOKUP\WindowsApplication1\bin\Debug\WindowsApplication1.xml
