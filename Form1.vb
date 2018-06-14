@@ -396,7 +396,7 @@ Public Class frmMain
 
         Dim sSQL As String
 
-        sSQL = "SELECT MediaCondID, Image_Reference, Image_Path from Media_Conditions"
+        sSQL = "SELECT MediaCondID, Image_Reference, Image_Path from Media_Conditions UNION  SELECT MediaCondID, Image_Reference, Image_Path from LACP_Media_Conditions"
 
         Using connection As New OleDbConnection(sConnection)
             Dim command As New OleDbCommand(sSQL)
@@ -447,7 +447,7 @@ Public Class frmMain
 
 
 
-        sSQL = "SELECT MediaID, Video_Name, Video_Location from Media_Inspections WHERE Video_Name NOT LIKE '%.ipf'"
+        sSQL = "SELECT MediaID, Video_Name, Video_Location from Media_Inspections WHERE Video_Name NOT LIKE '%.ipf' UNION SELECT MediaID, Video_Name, Video_Location from LACP_Media_Inspections WHERE Video_Name NOT LIKE '%.ipf'"
 
         Using connection As New OleDbConnection(sConnection)
             Dim command As New OleDbCommand(sSQL)
@@ -713,8 +713,8 @@ Public Class frmMain
             End If
 
             sStatus = ""
-                Application.DoEvents()
-                Me.ProgressBar1.Value = Me.ProgressBar1.Value + 1
+            Application.DoEvents()
+            Me.ProgressBar1.Value = Me.ProgressBar1.Value + 1
         Next
 
 
@@ -752,11 +752,11 @@ Public Class frmMain
             If sStatus = "File copied" Then
                 row.Cells(3).Style.BackColor = Color.Green
                 row.Cells(3).Value = "File copied"
-                ResetMediaPath(row.Cells(0).Value.ToString, "Video", modInivb.sNewVidPath)
+                'ResetMediaPath(row.Cells(0).Value.ToString, "Video", modInivb.sNewVidPath)
             ElseIf sStatus = "Target file already exists" Then
                 row.Cells(3).Style.BackColor = Color.Orange
                 row.Cells(3).Value = sStatus
-                ResetMediaPath(row.Cells(0).Value.ToString, "Video", modInivb.sNewVidPath)
+                'ResetMediaPath(row.Cells(0).Value.ToString, "Video", modInivb.sNewVidPath)
             Else
                 row.Cells(3).Style.BackColor = Color.Red
                 row.Cells(3).Value = sStatus
@@ -824,6 +824,8 @@ Public Class frmMain
     Private Sub cmdSelectMediaPath_Click(sender As System.Object, e As System.EventArgs) Handles cmdSelectMediaPath.Click
         If ReadIni(modInivb.sConfig, "Config", "InitPathPhotoSource", "") <> "" Then
             FolderBrowserDialog1.SelectedPath = ReadIni(modInivb.sConfig, "Config", "InitPathPhotoSource", "")
+        Else
+            FolderBrowserDialog1.SelectedPath = Path.GetDirectoryName(lblFilePath.Text)
         End If
 
         If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
