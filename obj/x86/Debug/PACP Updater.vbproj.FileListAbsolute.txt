@@ -10,3 +10,14 @@ C:\src\SF_Water\obj\x86\Debug\SFWater_PACPUpdateUtils.Resources.resources
 C:\src\SF_Water\obj\x86\Debug\SF Water PACP Update Utility.exe
 C:\src\SF_Water\obj\x86\Debug\SF Water PACP Update Utility.xml
 C:\src\SF_Water\obj\x86\Debug\SF Water PACP Update Utility.pdb
+C:\Users\Hugo\Source\Repos\SF_Util\obj\x86\Debug\SF Water PACP Update Utility.exe
+C:\Users\Hugo\Source\Repos\SF_Util\obj\x86\Debug\SF Water PACP Update Utility.xml
+C:\Users\Hugo\Source\Repos\SF_Util\obj\x86\Debug\SF Water PACP Update Utility.pdb
+C:\Users\Hugo\Source\Repos\SF_Util\bin\Debug\SF Water PACP Update Utility.exe
+C:\Users\Hugo\Source\Repos\SF_Util\bin\Debug\SF Water PACP Update Utility.pdb
+C:\Users\Hugo\Source\Repos\SF_Util\bin\Debug\SF Water PACP Update Utility.xml
+C:\Users\Hugo\Source\Repos\SF_Util\obj\x86\Debug\PACP Updater.vbprojResolveAssemblyReference.cache
+C:\Users\Hugo\Source\Repos\SF_Util\obj\x86\Debug\SFWater_PACPUpdateUtils.frmMain.resources
+C:\Users\Hugo\Source\Repos\SF_Util\obj\x86\Debug\SFWater_PACPUpdateUtils.Form2.resources
+C:\Users\Hugo\Source\Repos\SF_Util\obj\x86\Debug\SFWater_PACPUpdateUtils.Resources.resources
+C:\Users\Hugo\Source\Repos\SF_Util\obj\x86\Debug\PACP Updater.vbproj.GenerateResource.Cache
